@@ -7,7 +7,7 @@ export default function About() {
       <div className="card">
         <div className="card-content">
           <h6 className="mt-bottom">
-            <strong>ABOUT ME</strong>
+            <strong>ABOUT </strong>
           </h6>
           <div className='card-image'>
 					<img className='activator' src={Hello} alt='John Doe' />
