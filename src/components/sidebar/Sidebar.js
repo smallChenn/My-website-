@@ -16,17 +16,20 @@ class Sidebar extends Component {
                 <img src={logo} />
                 
                 <ul className="sidebar-nav">
-                    <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">About</Link></li>
-                    <li className="sidebar-nav-items"><Link smooth to="/#education" className="links" >Education</Link></li>
+                    <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">About Me</Link></li>
                     <li className="sidebar-nav-items"><Link smooth to="/#interest" className="links">Interest</Link></li>
+                    <li className="sidebar-nav-items"><Link smooth to="/#education" className="links" >My Journey</Link></li>
                   
                 </ul>
+                
+                
 
                 <div className="flip-card-back">
+                    <h3>Contact Me</h3>
                     <ul className="sidebar-nav">
                         <li className="sidebar-nav-icons"> <a href="https://github.com/smallChenn" rel="opener noreferrer" target="_blank" className="fa fas fa-github fa-lg"></a></li>
                         <li className="sidebar-nav-icons"><a href="https://www.linkedin.com/in/chenbingjie1998/" rel="opener noreferrer" target="_blank" className="fa fas fa-linkedin fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="chenbingjie1998@gmail.com" rel="opener noreferrer" target="_blank" className="fa fas fa-envelope fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="mailto:chenbingjie1998@gmail.com" rel="opener noreferrer" target="_blank" className="fa fas fa-envelope fa-lg"></a></li>
                         </ul>
                 </div>
 

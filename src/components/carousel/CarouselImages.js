@@ -18,7 +18,7 @@ class CarouselImages extends Component {
                     <div className={classes.image_container} >
                         <img className={classes.image} src={Idea} alt="myImage" />
                         <div className={classes.h1}>
-                            <h1 >This is Bingjie🐯 </h1>
+                        <h1 >This is Bingjie🐯</h1>
                             <a href="https://github.com/smallChenn" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown /></a>
                         </div>
                     </div>
@@ -26,7 +26,7 @@ class CarouselImages extends Component {
                         <img className={classes.image} src={Work} alt="myImage" />
                         <div className={classes.h2}>
                             <h1> Click to see my github</h1>
-                            <h1>🤍 🤍 🤍 </h1>
+                            <h1>💗</h1>
                             <a href="https://github.com/smallChenn" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject /></a>
                         </div>
                     </div>

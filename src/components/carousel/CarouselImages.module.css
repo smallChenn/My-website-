@@ -17,7 +17,7 @@
     top:-500px;
     left:10px;
     text-align: left;
-    color:rgba(255, 255,255, 0.8)
+    color:#2c8bf0;
   }
   
   .h2{
@@ -31,7 +31,7 @@
     top:-470px;
     
     text-align: middle;
-    color:rgb(128,128,128)
+    color:#f16bcd
   }
 
   .h1 a{
@@ -50,7 +50,7 @@
     padding: 11px 24px;
     box-shadow: 0px 10px 30px 0px rgba(21, 10, 82, 0.35);
     border-radius:22px;
-    background-image:linear-gradient(to left,rgba(75,19,79,0.8) ,rgba(201,75,75,0.6));
+    background-image:linear-gradient(to left,#0869f0cc ,#27caf399);
   }
   .h2 a{
     color:rgba(255, 255,255, 0.8);
@@ -68,7 +68,7 @@
     padding: 11px 24px;
     box-shadow: 0px 10px 30px 0px rgba(21, 10, 82, 0.35);
     border-radius:22px;
-    background-image:linear-gradient(to left,rgba(75,19,79,0.8) ,rgba(201,75,75,0.6));
+    background-image:linear-gradient(to left,rgba(231, 56, 244, 0.8) ,#f65af399);
   }
 
   @keyframes text{

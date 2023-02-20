@@ -20,7 +20,7 @@ class Education extends Component {
                                         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article className={classes.timeline_entry}>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_5}`} >
-                                                    <MdWork />
+                                                    <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Education  <span>March 2022-Present</span></h2>
@@ -31,7 +31,7 @@ class Education extends Component {
                                         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article className={classes.timeline_entry}>
                                                 <div className={classes.timeline_icon} >
-                                                    <MdSchool />
+                                                    <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 > Work <span>April 2021- December 2021</span></h2>
@@ -42,7 +42,7 @@ class Education extends Component {
                                         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article className={classes.timeline_entry}>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_2}`} >
-                                                    <FaSchool />
+                                                    <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Work  <span>January 2020 - March 2021</span></h2>
@@ -54,7 +54,7 @@ class Education extends Component {
                                         <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
                                             <article>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_4}`} >
-                                                    <MdWork />
+                                                    <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Education <span>Feburary 2018- December 2019</span></h2>
