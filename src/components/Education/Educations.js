@@ -24,7 +24,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Education  <span>March 2022-Present</span></h2>
-                                                    <p>I am currently studying <b>Computer Science</b> at <a target="_blank" href="https://www.york.ac.uk/"><b>University of York</b></a></p>
+                                                    <p>I am currently studying Computer Science at <b><a href="https://www.york.ac.uk/">University of York</a></b></p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -35,7 +35,10 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 > Work <span>April 2021- December 2021</span></h2>
-                                                    <p>I work as Business Intelligent Engineer at Lanehub</p>
+                                                    <p>I worked as a business intelligence engineer at a tech start-up company in China for Remote Working. </p>
+                                                    <p>
+                                                    My employer, <b><a href='https://www.yuanling.com/home/'>Lanehub</a></b>, is building a platform to help professionals finding a fully remote job and help employers to manage their remote employees efficiently. At Lanehub, I am responsible to design and develop core business metrics, create insightful automated dashboards and data visualization to track them and extract useful business and product insights.
+                                                    </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -46,7 +49,8 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Work  <span>January 2020 - March 2021</span></h2>
-                                                    <p>I work as Business Analyst at Loreal </p>
+                                                    <p>I work as Business Analyst at  <b><a href='https://www.loreal.com/en/china/'>Loreal</a></b> </p>
+                                                    <p>I am responsible for mine terabytes of data, derive actionable insights, and translate complex outputs or algorithms into simple conclusions that will empower others to take actions to win consumers.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -58,7 +62,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Education <span>Feburary 2018- December 2019</span></h2>
-                                                    <p>I compeleted my master degree of commerce in Macquarie University</p>
+                                                    <p>I compeleted my master degree of commerce at <b><a href='https://www.mq.edu.au/'>Macquarie University</a></b></p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>
