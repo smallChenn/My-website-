@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import classes from './Interest.module.css';
 import ScrollAnimation from 'react-animate-on-scroll';
 import "animate.css/animate.min.css";
-import Pain from '../images/painting.png'
-import Travel from '../images/travel.png'
+import Pain from '../images/painting.jpg'
+import Travel from '../images/travel.jpg'
 
 class Interest extends Component {
   render() {
